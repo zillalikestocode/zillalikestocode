@@ -14,6 +14,8 @@ I'm Emmanuel a software engineer situated in Nigeria. Follow me keep track of my
 :bird: [TWITTER](https://twitter.com/zillathefirst) :camera: [INSTAGRAM](https://instagram.com/the_emmanuelngoka)
 
 [![An image of @zillalikestocode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zillalikestocode)](https://holopin.io/@zillalikestocode)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zillalikestocode)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zillalikestocode/zillalikestocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
